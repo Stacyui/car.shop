@@ -92,19 +92,19 @@ span {
 } */
 
 #pic1 {
-  background-image: url("../Images/human.repairing.acar.jpg");
+  background-image: url("../images/human.repairing.acar.jpg");
   /* left: 105px;
   top: 65px; */
   z-index: 1;
 }
 
 #pic2 {
-  background-image: url("..Images/human.maintaning.acar.jpg");
+  background-image: url("..images/human.maintaning.acar.jpg");
   z-index: -1;
 }
 
 #pic3 {
-  background-image: url("../Images/human.washing.acar.jpg");
+  background-image: url("../images/human.washing.acar.jpg");
   /* margin-right: 100px; */
 }
 
